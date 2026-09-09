@@ -1,0 +1,3 @@
+# Exclude reference material from any archive/export produced by git.
+reference/ export-ignore
+.gitattributes export-ignore
